@@ -1,2 +1,2 @@
 # CNN-ImageClassification
-Convolutional Neural Network
+Convolutional Neural Network - Accuracy : 88% 
